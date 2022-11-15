@@ -1,0 +1,50 @@
+[
+    {
+        "codigo": "7097454",
+        "registro": "2022-12-25",
+        "dni": "70948451",
+        "nombreCliente": "Christian Leon",
+        "celular": "992238123",
+        "reserva": "2022-12-28",
+        "iniciaH": "11:00",
+        "finalizaH": "13:00",
+        "campo": "Campo de futbol 1",
+        "precio": "100"
+    },
+    {
+        "codigo": "5885596",
+        "registro": "2022-11-14",
+        "dni": "70996551",
+        "nombreCliente": "Eduardo Cueva",
+        "celular": "85965652",
+        "reserva": "2022-11-18",
+        "iniciaH": "13:00",
+        "finalizaH": "15:00",
+        "campo": "Campo de futbol 2",
+        "precio": "100"
+    },
+    {
+        "codigo": "1402552",
+        "registro": "2023-01-18",
+        "dni": "70996551",
+        "nombreCliente": "Eduardo Cueva",
+        "celular": "85965652",
+        "reserva": "2023-01-22",
+        "iniciaH": "13:00",
+        "finalizaH": "15:00",
+        "campo": "Campo de futbol 3",
+        "precio": "100"
+    },
+    {
+        "codigo": "9282852",
+        "registro": "2023-02-08",
+        "dni": "12396551",
+        "nombreCliente": "Jairo Cornejo",
+        "celular": "80005652",
+        "reserva": "2023-02-12",
+        "iniciaH": "13:00",
+        "finalizaH": "15:00",
+        "campo": "Campo de futbol 1",
+        "precio": "100"
+    }
+]
